@@ -2768,7 +2768,7 @@ local Button = tab10Tab:CreateButton({
    end,
 })
 
-local tab11Tab = Window:CreateTab("DOORS", 4483362458) -- Title, Image
+local tab11Tab = Window:CreateTab("DOORS", 18372809038) -- Title, Image
 
 local Section = tab11Tab:CreateSection("DOOR Script")
 
@@ -2786,7 +2786,7 @@ local Button = tab11Tab:CreateButton({
 	end,
  })
 
- local tab12Tab = Window:CreateTab("Bee Swarm Simulater", 4483362458) -- Title, Image
+ local tab12Tab = Window:CreateTab("Bee Swarm Simulater", 18372809038) -- Title, Image
 
  local Section = tab12Tab:CreateSection("Bee Swarm Simulater Script")
 
@@ -2797,7 +2797,7 @@ local Button = tab11Tab:CreateButton({
 	end,
  })
 
- local tab13Tab = Window:CreateTab("Big Paintball", 4483362458) -- Title, Image
+ local tab13Tab = Window:CreateTab("Big Paintball", 18372809038) -- Title, Image
 
  local Section = tab13Tab:CreateSection("Big PaintBall")
 
@@ -2808,7 +2808,7 @@ local Button = tab11Tab:CreateButton({
 	end,
  })
 
- local tab14Tab = Window:CreateTab("Auto clicker", 4483362458) -- Title, Image
+ local tab14Tab = Window:CreateTab("Auto clicker", 18372809038) -- Title, Image
 
  local Section = tab14Tab:CreateSection("Auto clicker script")
 
